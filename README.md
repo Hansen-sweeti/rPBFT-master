@@ -1,4 +1,4 @@
-# **项目必须和另一个pbft-proxy一起使用**
+# **项目必须和另一个pbft-agent一起使用**
 
 # 具体有什么问题或者进一步想法的同学可以关注公众号 **CppCoding** 联系我 
 关于代码介绍方法，可以去看[博客](https://www.cnblogs.com/xiaohuiduan/category/1635542.html)。里面介绍了一些功能的实现思路和方法，以及使用到的一些库的介绍。
