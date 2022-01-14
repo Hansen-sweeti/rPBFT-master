@@ -45,7 +45,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        int i = 4;
+        int i = 0;//共识节点标识
         String ip = "127.0.0.1";
         int port = 8080 + i;
 
